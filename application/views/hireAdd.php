@@ -18,7 +18,7 @@
               <table  border="0" >
                 <tr>
                   <td style="text-align: right">
-                    <label class="control-label">จ้างครั้งที่ :  </label>
+                    <label class="control-label">จ้างครั้งที่ :   </label>
                   </td>
                   <td>
                     <h1> 1 </h1>
